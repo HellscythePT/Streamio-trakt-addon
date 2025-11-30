@@ -1,0 +1,13 @@
+{
+  "name": "stremio-trakt-addon",
+  "version": "1.0.0",
+  "description": "Addon Stremio com listas automáticas do Trakt",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  }
+}

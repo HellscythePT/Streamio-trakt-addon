@@ -1,0 +1,18 @@
+{
+  "client_id": "d9e4a8cf0d236b8b29af91727e8c7b09f3b4ced723afe8aec8cb2379e1925aab",
+  "max_items": 100,
+  "movies": {
+    "trending": true,
+    "popular": true,
+    "genres": ["action","adventure","thriller","horror","drama","sci-fi","fantasy","romance","mystery","comedy","family","animation","kids","blockbuster"],
+    "kdrama": true,
+    "turkish_series": false
+  },
+  "shows": {
+    "trending": true,
+    "popular": true,
+    "genres": ["action","adventure","thriller","horror","drama","sci-fi","fantasy","romance","mystery","comedy","family","animation","kids","blockbuster"],
+    "kdrama": true,
+    "turkish_series": true
+  }
+}
