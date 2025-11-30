@@ -1,0 +1,190 @@
+{
+  "id": "stremio-trakt-addon",
+  "version": "1.0.0",
+  "name": "Stremio Trakt+",
+  "description": "Cat\u00e1logos autom\u00e1ticos de filmes e s\u00e9ries via Trakt + TMDB images",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "movies_trending",
+      "name": "Trending Movies"
+    },
+    {
+      "type": "movie",
+      "id": "movies_popular",
+      "name": "Popular Movies"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_action",
+      "name": "Movies - action"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_adventure",
+      "name": "Movies - adventure"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_thriller",
+      "name": "Movies - thriller"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_horror",
+      "name": "Movies - horror"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_drama",
+      "name": "Movies - drama"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_sci-fi",
+      "name": "Movies - sci-fi"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_fantasy",
+      "name": "Movies - fantasy"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_romance",
+      "name": "Movies - romance"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_mystery",
+      "name": "Movies - mystery"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_comedy",
+      "name": "Movies - comedy"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_family",
+      "name": "Movies - family"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_animation",
+      "name": "Movies - animation"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_kids",
+      "name": "Movies - kids"
+    },
+    {
+      "type": "movie",
+      "id": "movies_genre_blockbuster",
+      "name": "Movies - blockbuster"
+    },
+    {
+      "type": "movie",
+      "id": "movies_kdrama",
+      "name": "K-Drama Movies"
+    },
+    {
+      "type": "series",
+      "id": "shows_trending",
+      "name": "Trending Shows"
+    },
+    {
+      "type": "series",
+      "id": "shows_popular",
+      "name": "Popular Shows"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_action",
+      "name": "Shows - action"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_adventure",
+      "name": "Shows - adventure"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_thriller",
+      "name": "Shows - thriller"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_horror",
+      "name": "Shows - horror"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_drama",
+      "name": "Shows - drama"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_sci-fi",
+      "name": "Shows - sci-fi"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_fantasy",
+      "name": "Shows - fantasy"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_romance",
+      "name": "Shows - romance"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_mystery",
+      "name": "Shows - mystery"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_comedy",
+      "name": "Shows - comedy"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_family",
+      "name": "Shows - family"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_animation",
+      "name": "Shows - animation"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_kids",
+      "name": "Shows - kids"
+    },
+    {
+      "type": "series",
+      "id": "shows_genre_blockbuster",
+      "name": "Shows - blockbuster"
+    },
+    {
+      "type": "series",
+      "id": "shows_kdrama",
+      "name": "K-Drama Shows"
+    },
+    {
+      "type": "series",
+      "id": "shows_turkish",
+      "name": "Turkish Shows"
+    }
+  ]
+}

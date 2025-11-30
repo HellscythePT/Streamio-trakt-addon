@@ -1,7 +1,7 @@
 {
-  "name": "stremio-trakt-addon",
+  "name": "streamio-trakt-addon",
   "version": "1.0.0",
-  "description": "Addon Stremio com listas automáticas do Trakt",
+  "description": "Stremio addon using Trakt for lists + TMDB for images",
   "main": "addon.js",
   "scripts": {
     "start": "node addon.js"
