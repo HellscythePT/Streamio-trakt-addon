@@ -1,6 +1,6 @@
 {
   "client_id": "d9e4a8cf0d236b8b29af91727e8c7b09f3b4ced723afe8aec8cb2379e1925aab",
-  "tmdb_api_key": "",
+  "tmdb_api_key": "3a376df291da876d3d6d95fa423c887f",
   "max_items": 100,
   "movies": {
     "trending": true,
